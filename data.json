@@ -1,0 +1,156 @@
+{
+    "person" : [
+        {
+            "name" : "Arifen Emon",
+            "savings" : "৳ 2,736",
+            "debts" : "৳ 2,900",
+            "loanBalance" : "৳ 2,500",
+            "totalDabt" : "৳ 5,400",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png"
+        },
+        {
+            "name" : "NH Jolok",
+            "savings" : "৳ 5,636",
+            "debts" : "৳ 00",
+            "loanBalance" : "৳ 9,000 ",
+            "totalDabt" : "৳ 9,000 ",
+            "phone" : 8801734559949,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/1.png"
+        },
+        {
+            "name" : "MD Mehedi",
+            "savings" : "৳ 5,636",
+            "debts" : "৳ 00 ",
+            "loanBalance" : "৳ 00",
+            "totalDabt" : "৳ 00",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/2.png"
+        },
+        {
+            "name" : "MH Meraj",
+            "savings" : "৳ 5,636 ",
+            "debts" : "৳ 00 ",
+            "loanBalance" : "৳ 5,000 ",
+            "totalDabt" : "৳ 5,000 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png"
+        },
+        {
+            "name" : "MD Himel",
+            "savings" : "৳ 5,636 ",
+            "debts" : "৳ 00 ",
+            "loanBalance" : "৳ 11,000 ",
+            "totalDabt" : "৳ 11,000 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/4.png"
+        },
+        {
+            "name" : "MD Badhon",
+            "savings" : "৳ 4,636 ",
+            "debts" : "৳ 1,000 ",
+            "loanBalance" : "৳ 7,000 ",
+            "totalDabt" : "৳ 8,000 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/5.png"
+        },
+        {
+            "name" : "Merajur Apu",
+            "savings" : "৳ 5,636 ",
+            "debts" : "৳ 00 ",
+            "loanBalance" : "৳ 00 ",
+            "totalDabt" :"৳ 00 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/6.png"
+        },
+        {
+            "name" : "MD Sheser",
+            "savings" : "৳ 2,593 ",
+            "debts" : "৳ 2,770 ",
+            "loanBalance" : "৳ 3,000 ",
+            "totalDabt" : "৳ 5,770 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/7.png"
+        },
+        {
+            "name" : "Arup Ahammed",
+            "savings" : "৳ 1,936 ",
+            "debts" : "৳ 3,700 ",
+            "loanBalance" : "৳ 2,660 ",
+            "totalDabt" : "৳ 6,360 ",
+            "phone" : 8801760628532,
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png"
+        }
+        
+    ],
+    "liveAmmount" : "৳ 200 ",
+    "totalAmmount" : "৳ 50,730 ",
+    "letestNews" : [
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/1.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/2.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/4.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/5.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/6.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/7.png" , "title" : "lorem ipsum solo....."},
+        {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png" , "title" : "lorem ipsum solo....."}
+    ],
+    "transactions" : [
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/1.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/2.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/4.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/5.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/6.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/7.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        },
+        {
+            "photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png" ,
+            "name" : "Arifen Emon",
+            "title" : "lorem ipsum solo.....",
+            "balance" : "৳ 00 "
+        }
+    ]
+    
+}
