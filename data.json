@@ -31,8 +31,8 @@
             "name" : "MH Meraj",
             "savings" : "৳ 5,636 ",
             "debts" : "৳ 00 ",
-            "loanBalance" : "৳ 5,000 ",
-            "totalDabt" : "৳ 5,000 ",
+            "loanBalance" : "৳ 8,800 ",
+            "totalDabt" : "৳ 8,800 ",
             "phone" : 8801760628532,
             "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png"
         },
@@ -83,7 +83,7 @@
         }
         
     ],
-    "liveAmmount" : "৳ 3,870",
+    "liveAmmount" : "৳ 70",
     "totalAmmount" : "৳ 50,730 ",
     "letestNews" : [
         {"photo" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png" , "title" : "lorem ipsum solo....."},
