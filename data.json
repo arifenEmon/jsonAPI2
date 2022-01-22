@@ -7,7 +7,24 @@
             "loanBalance" : "৳ 2,600",
             "totalDabt" : "৳ 5,500",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/0.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "NH Jolok",
