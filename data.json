@@ -33,7 +33,24 @@
             "loanBalance" : "৳ 9,000 ",
             "totalDabt" : "৳ 9,000 ",
             "phone" : 8801734559949,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/1.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/1.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "MD Mehedi",
@@ -42,7 +59,24 @@
             "loanBalance" : "৳ 00",
             "totalDabt" : "৳ 00",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/2.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/2.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "MH Meraj",
@@ -51,7 +85,24 @@
             "loanBalance" : "৳ 8,800 ",
             "totalDabt" : "৳ 8,800 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/3.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "MD Himel",
@@ -60,7 +111,24 @@
             "loanBalance" : "৳ 11,000 ",
             "totalDabt" : "৳ 11,000 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/4.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/4.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "MD Badhon",
@@ -69,7 +137,24 @@
             "loanBalance" : "৳ 7,000 ",
             "totalDabt" : "৳ 8,000 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/5.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/5.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "Merajur Apu",
@@ -78,7 +163,24 @@
             "loanBalance" : "৳ 00 ",
             "totalDabt" :"৳ 00 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/6.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/6.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "MD Sheser",
@@ -87,7 +189,24 @@
             "loanBalance" : "৳ 00 ",
             "totalDabt" : "৳ 00 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/7.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/7.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         },
         {
             "name" : "Arup Ahammed",
@@ -96,7 +215,24 @@
             "loanBalance" : "৳ 4,160 ",
             "totalDabt" : "৳ 7,860 ",
             "phone" : 8801760628532,
-            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png"
+            "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png",
+            "notifi" : [
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                },
+                {
+                    "sub" : "Take Loan",
+                    "details" : "notifi subject",
+                    "date" : "1-1-7000"
+                }
+            ]
         }
         
     ],
