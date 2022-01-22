@@ -356,23 +356,7 @@
             "totalDabt" : "৳ 7,860 ",
             "phone" : 8801760628532,
             "profilePic" : "https://raw.githubusercontent.com/arifenEmon/appsIMGs/main/person/8.png",
-            "notifi" : [
-                {
-                    "sub" : "Take Loan",
-                    "details" : "notifi subject",
-                    "date" : "1-1-7000"
-                },
-                {
-                    "sub" : "Take Loan",
-                    "details" : "notifi subject",
-                    "date" : "1-1-7000"
-                },
-                {
-                    "sub" : "Take Loan",
-                    "details" : "notifi subject",
-                    "date" : "1-1-7000"
-                }
-            ]
+            "notifi" : []
         }
         
     ],
